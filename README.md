@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/dhanshree-shende/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Dhanshreeshende/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:dhanshreeshendee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://kaggle.com/Dhanshreeshende"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
@@ -74,9 +73,9 @@ I'm **Dhanshree Shende**, a **Data Science / ML enthusiast**, with a love for so
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | **ENIGMA 2.0 - HackHers** | AI-powered women empowerment platform providing mentorship, career guidance, job opportunities, community engagement, and an intelligent RAG-based assistant. Runner-Up at YCCE's national-level 24-hour hackathon. | `React` `Flask` `Node.js` `NLP` `RAG` | [🔗 Repo](https://github.com/Dhanshreeshende/-ENIGMA_2.0_HackHers) |
-| **LiTwinX** | Digital Twin framework for liver cancer progression analysis using medical imaging and deep learning, providing prediction, monitoring, and explainable AI-based insights. | `Python` `TensorFlow` `OpenCV` `Flask` `XAI` | [🔗 Repo](https://github.com/Dhanshreeshende/project-two) |
-| **FleetFlow** | Full-stack fleet management system for tracking vehicles, drivers, maintenance schedules, and operational efficiency through a centralized dashboard. | `React` `Node.js` `JavaScript` `REST API` | [🔗 Repo](https://github.com/Dhanshreeshende/project-three) |
-> 📌 *Pin your best repos on your GitHub profile (Customize pins) so they also surface above this table automatically.*
+| **LiTwinX** | Digital Twin framework for liver cancer progression analysis using medical imaging and deep learning, providing prediction, monitoring, and explainable AI-based insights. | `Python` `TensorFlow` `OpenCV` `Flask` `XAI` | [🔗 Repo](https://github.com/Dhanshreeshende/LiTwinX) |
+| **FleetFlow** | Full-stack fleet management system for tracking vehicles, drivers, maintenance schedules, and operational efficiency through a centralized dashboard. | `React` `Node.js` `JavaScript` `REST API` | [🔗 Repo](https://github.com/Dhanshreeshende/FleetFlow) |
+
 
 <br/>
 
