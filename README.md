@@ -4,7 +4,7 @@
 
 <!-- Animated typing intro — swap text via the &lines= param -->
 <a href="https://github.com/Dhanshreeshende">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhanshree+Shende;Data+%2F+ML+Enthusiast;Turning+messy+data+into+useful+answers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhanshree+Shende" alt="Typing SVG" />
 </a>
 
 <!-- Social badges row -->
