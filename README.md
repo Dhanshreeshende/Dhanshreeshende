@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Dhanshree Shende
 
-### AI & Data Science Student 
+### Artificial Intelligence & Data Science Student 
 
 <p>
 <a href="https://www.linkedin.com/in/dhanshree-shende/">
