@@ -29,10 +29,7 @@
 - Generative AI
 - Full Stack Development
 
-🌱 Currently learning
-- Data Structures & Algorithms (Java)
-- Spring Boot
-- MLOps
+
 
 🎯 Looking for Software Development & AI/ML opportunities
 
@@ -105,14 +102,6 @@ AI-powered Women Empowerment platform with mentorship, career guidance, and an i
 
 ---
 
-## 🎯 2026 Goals
-
-- ✅ Strengthen DSA in Java
-- 🚀 Build production-ready AI projects
-- 📚 Learn MLOps & LLMs
-- ⭐ Contribute to Open Source
-
----
 
 ## 🤝 Connect With Me
 
